@@ -5,7 +5,7 @@ This Python script collects user information related to fitness and provides per
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
-- 
+  
 ## Introduction
 
 The Fitness Recommendation System is a simple interactive tool designed to help users achieve their fitness goals by providing personalized workout schedules and diet plans. The script collects user details, sends them to the OpenAI GPT-4 API, and returns customized fitness recommendations.
